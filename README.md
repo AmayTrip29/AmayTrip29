@@ -28,6 +28,20 @@ Crafting **impact-driven** products at the intersection of **AI/ML**, **Web3**, 
 
 ---
 
+### 🌟 Quick Links
+
+* 1️⃣ **TutorVerse** – AI-Powered Math & Physics Tutor  
+  [GitHub Repo](https://github.com/AmayTrip29/TutorVerse)  
+  [Live Demo](https://tutor-verse.vercel.app)  
+  Smart tutoring system powered by Google’s Gemini API, solving math and physics questions with integrated tools for accurate solutions.
+
+* 2️⃣ **TinyOS WebSim** – Web-Based OS Simulator  
+  [GitHub Repo](https://github.com/AmayTrip29/TinyOS-WebSim)  
+  [Live Demo](https://tiny-os-web-sim.vercel.app)  
+  An interactive OS simulator with process scheduling, memory management, and a terminal-based CLI for learning OS fundamentals.
+
+---
+
 ### 🛠️ My Toolbox
 
 | Area             | Stack                                              |
