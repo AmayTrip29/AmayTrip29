@@ -15,18 +15,6 @@ Crafting **impact-driven** products at the intersection of **AI/ML**, **Web3**, 
 
 ---
 
-### 💼 Work Experience
-
-**Software Engineering Intern (AIML) — Bluestock Fintech** (May–July 2025)  
-- 🚀 Cut **P99 inference latency** from **1.2s → 280ms** via batching, async, Redis caching, and ONNX Runtime.  
-- 📈 Boosted **CTR 7.8% → 12.1%** using Next.js + FastAPI + Faiss + LightGBM with Bayesian tuning.  
-- ⚡ Built **Kafka-based pipelines** for 600K+ daily events, raising F1 from **0.81 → 0.88**.  
-- 🧠 Optimized models with **LoRA fine-tuning** + **int8 ONNX quantization**, cutting GPU costs **38%**.  
-- 📊 Developed an **AI analytics dashboard** (LLaMA-3 + FastAPI + Next.js + D3.js) with <300ms query time.  
-- 🔧 Implemented **sparse attention** (~O(n·√d)) with segment trees → 32% GPU memory savings.  
-
----
-
 ### 🚀 Flagship Projects
 
 | 🚀 Project                      | 💡 Highlights                                                   | 🛠️ Tech Stack                                        |
